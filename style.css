@@ -1,14 +1,14 @@
 body{
      background: #cccccc
 }	 
-{
-p,.centralizar{		
+p{
+		
 	text-align: center;
 }
 em strong{
    color: #ff0000;
 }
-h1,h2{
+h1{
     color: #0000ff;
 }
 #banner  {
